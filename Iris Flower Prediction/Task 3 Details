@@ -1,1 +1,25 @@
+TASK 3 : IRIS FLOWER CLASSIFICATION 
+
+Problem statement:
+The Iris flower dataset consists of three species: setosa, versicolor, and virginica. These species can be distinguished based on their
+measurements. Now, imagine that you have the measurements of Iris flowers categorized by their respective species.
+
+1.Your objective is to train a machine learning model that can learn from these measurements and accurately classify the Iris flowers into
+their respective species.
+2.Use the Iris dataset to develop a model that can classify iris flowers into different species based on their sepal and petal
+measurements. This dataset is widely used for introductory classification tasks. 
+
+This dataset became a typical test case for many statistical classification techniques in machine learning such as support vector machines, KNN Classifiers , etc.
+The dataset contains a set of 150 records under 5 attributes - Petal Length, Petal Width, Sepal Length, Sepal width and Class(Species).
+
+Work Flow:
+Data Pre-processing step
+Fitting the K-NN algorithm to the Training set
+Predicting the test result
+Test accuracy of the result(Creation of Confusion matrix)
+Visualizing the test set result.
+
+Conclusion :
+The KNN(K- Nearest Neighbors) algorithm is simple yet effective classification method.It predicts the class label of new data point with full accuracy. This model is effective for given Iris flower dataset
+
 
