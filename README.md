@@ -1,2 +1,2 @@
 # CODSOFT
-This repository contains CODSOFT Data Science Internship all completed tasks.
+This repository contains CODSOFT Data Science Internship completed tasks.
